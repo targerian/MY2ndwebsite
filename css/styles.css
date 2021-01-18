@@ -1,0 +1,186 @@
+h1 {
+  padding-top: 30px;
+  margin-top: 0;
+  font-family: 'Montserrat', sans-serif;
+  color: #bfbcb7;
+  font-size: 3.2rem;
+  font-weight: 100;
+}
+h2{
+  padding-top: 5px;
+  color: #ccc8c2;
+  font-weight: lighter;
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  padding-top: 30px;
+  margin-top: 0;
+  font-family: 'Montserrat', sans-serif;
+  color: #b58134;
+
+}
+p{
+  color: #ccc8c2;
+  margin: auto;
+  line-height: 2;
+  font-size: 0.85rem;
+  font-family: 'Merriweather', serif;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: Tahoma, sans-serif;
+  background-image: linear-gradient( to right, #000000, #565460);
+
+}
+a{
+  color:#ccc8c2;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+}
+a:hover{
+  color: #393630;
+}
+a:visited{
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr{
+  border-style: dotted none none;
+  border-width: 8px;
+  border-color:   #696662;
+  width: 6%;
+  padding-bottom: 50px;
+
+}
+
+.top_container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+.intro{
+  background-color: rgba(249, 245, 241, 0.1);
+  width: 30%;
+  margin: 210px auto 0 auto;
+  height: 250px;
+}
+.disc-par{
+  width: 30%;
+  margin: auto;
+}
+.mid_container {
+  margin: 0;
+  height: 100%;
+  background-image: linear-gradient(to right, #000000, #565460);
+  background-color: #242022;
+  padding-bottom: 10%;
+}
+
+.low_container {
+  margin: 0;
+  height: 1000px;
+  position: relative;
+}
+
+.cloud-bot {
+  position: absolute;
+  left: 100px;
+  bottom: 300px;
+}
+
+.cloud-top {
+  position: absolute;
+  top: -190px;
+  right: 200px;
+}
+.laptop{
+  margin-top: 200px;
+  visibility: hidden;
+}
+.mohamed{
+  width:200px; height:200px;
+}
+.div-maths{
+  width:50%;
+  margin: 100px auto 100px 200px;
+}
+.maths{
+  background-color: white;
+  width: 25%;
+  border-radius: 40%;
+  float: left;
+  margin-right: 20px;
+}
+.maths-paragraph{
+  text-align: left;
+}
+.moving-paragraph{
+  display: inline-block;
+  width:15%;
+}
+.div-computer{
+  width:50%;
+  margin: 200px 200px 100px auto;
+}
+.skills-computer{
+  background-color: #242022;
+  width: 25%;
+  border-radius: 40%;
+  float: right;
+  margin-left: 20px;
+}
+.div-fishing{
+  width: 50%;
+  margin: 200px auto 0 200px;
+}
+.fish{
+  width: 25%;
+  border-radius: 40%;
+  float: left;
+  margin-right: 20px;
+}
+.contactme{
+  margin-top: 50px;
+  padding-top: 100px;
+}
+.contact-me-paragraph{
+  width: 30%;
+  margin: 10px auto 30px auto;
+}
+.myButton {
+  margin-top: 40px;
+  margin-bottom: 20px;
+	box-shadow: 0px 0px 0px 2px #f29d09;
+	background:linear-gradient(to bottom, #ad8255 5%, #ebb241 100%);
+	background-color:#ad8255;
+	border-radius:10px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-size:19px;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+  font-family: 'Montserrat', sans-serif
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #ebb241 5%, #ad8255 100%);
+	background-color:#ebb241;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.fotter{
+  margin-top: 20px;
+  padding-top: 10px;
+  background-color: #b58134;
+}
+.fotterparagraph{
+  padding-top: 10px;
+  font-size: 0.7rem;
+
+}
